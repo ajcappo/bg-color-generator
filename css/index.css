@@ -20,7 +20,7 @@
 
 .btn{
     width: 40vw;
-    height: 15vh;
+    height: 200px;
     background-color: rgb(231, 231, 231);
     border: none;
     position: absolute;
@@ -39,7 +39,7 @@
 
 .btn:hover{
    cursor: pointer;
-   font-size: 2.1em
+   
 
 }
 
