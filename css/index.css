@@ -33,10 +33,15 @@
     font-weight:bold;
     font-size: 2em;
     text-transform: uppercase;
-    cursonr: pointer
+    transform: all .5s
 
 }
 
+.btn:hover{
+   cursor: pointer;
+   transform: scale(1.1)
+
+}
 
 
 
